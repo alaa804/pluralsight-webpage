@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+pluralsight webpage with react and css with flex itmes and responsive
+![Capture d’écran 2021-08-24 130607](https://user-images.githubusercontent.com/73104268/130613704-a65c01b8-f1cc-4f62-8c4c-f5792fc453a2.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
